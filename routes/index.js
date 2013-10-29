@@ -27,6 +27,5 @@ module.exports = function (app) {
 	});
 
 	app.post('/post', function (req, res) {
-		
 	});
 }
